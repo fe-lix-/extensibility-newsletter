@@ -27,30 +27,37 @@ mj-section {
 
 .mj-columns-layout-20-80-col-1 {
     width: 25%;
+    background-color: #fff;
 }
 
 .mj-columns-layout-20-80-col-2 {
     width: 75%;
+    background-color: #fff;
 }
 
 .mj-columns-layout-60-40-col-1 {
     width: 60%;
+    background-color: #fff;
 }
 
 .mj-columns-layout-60-40-col-2 {
     width: 40%;
+    background-color: #fff;
 }
 
 .mj-columns-layout-33-33-33-col-1 {
     width: 33%;
+    background-color: #fff;
 }
 
 .mj-columns-layout-33-33-33-col-2 {
     width: 33%;
+    background-color: #fff;
 }
 
 .mj-columns-layout-33-33-33-col-3 {
     width: 33%;
+    background-color: #fff;
 }
 
 mj-body {
