@@ -1,5 +1,5 @@
 {
-    "project": "cpss-newsletter",
+    "project": "sites-newsletter",
     "plugins": [
         {
             "id": "copyHtml",
